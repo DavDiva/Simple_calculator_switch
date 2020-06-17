@@ -7,10 +7,6 @@ int main()
     double a, b;
     char c='0';
     cin >> a >> c >> b;
-    /*double n = a * b;
-    double m = a / b;
-    double k = a + b;
-    double t = a - b;*/
     switch (c)
     {
     case '*': cout << a * b;
